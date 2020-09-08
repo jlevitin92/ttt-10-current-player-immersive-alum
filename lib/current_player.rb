@@ -4,7 +4,7 @@ def turn_count(board)
     if move == "O" or "X"
       counter += 1
     end
-    puts counter
   end
+  puts counter
 
 end
